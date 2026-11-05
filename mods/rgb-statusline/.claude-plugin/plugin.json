@@ -1,0 +1,1 @@
+{ "name": "rgb-statusline", "version": "0.1.0", "description": "Truecolor single-line status: repo, branch, context gradient bar, cost, lines changed, model", "types": "./types/index.d.ts" }
