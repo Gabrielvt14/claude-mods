@@ -22,7 +22,7 @@ Start a new session after installing.
 
 | mod | what it does |
 |---|---|
-| `rgb-statusline` | Truecolor status line: repo, branch, gradient context bar, cost, lines changed, model, and plan usage: 5-hour session bar on subscription plans, spend-limit bar on spend-capped (monthly) accounts, with reset countdown |
+| `rgb-statusline` | Truecolor status line: repo, branch, gradient context bar, cost, lines changed, model, and 5-hour session usage with reset countdown |
 
 ## Adding a mod
 
